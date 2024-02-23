@@ -1,0 +1,11 @@
+public class Test2 {
+    public static void main(String[] args) {
+        int x=0;
+        int x1= (int) (x*8*0.8);
+        int y=0;
+        int m=0;
+        int z=0;
+        z= x1+y*13+m*20;
+        int z1=z>100?90:z;
+    }
+}
